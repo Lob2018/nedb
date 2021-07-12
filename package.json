@@ -14,10 +14,10 @@
     "datastore",
     "embedded"
   ],
-  "homepage": "https://github.com/louischatriot/nedb",
+  "homepage": "https://github.com/Lob2018/nedb2021",
   "repository": {
     "type": "git",
-    "url": "git@github.com:louischatriot/nedb.git"
+    "url": "git@github.com:Lob2018/nedb2021.git"
   },
   "dependencies": {
     "async": "0.2.10",
